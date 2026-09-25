@@ -1,0 +1,20 @@
+# dependencies
+node_modules/
+
+# build output
+dist/
+
+# local scratch / harness artifacts
+.freebuff/
+.tmp/
+.shot.mjs
+*.log
+
+# source archive for the showroom GLB (34 MB — not needed to run; GLB ships in public/)
+Iron+Man.zip
+
+# editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
